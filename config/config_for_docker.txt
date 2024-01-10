@@ -1,0 +1,4 @@
+CONFIG_FROM_FILE_TXT=12345678frfeffrefref{
+    reforfrof
+    frfref
+}
